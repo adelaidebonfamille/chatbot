@@ -14,7 +14,7 @@ This repository contains a simple chatbot application built using HTML, CSS, and
 To run this application, simply clone the repository and open the `index.php` file in your web browser.
 
 ```bash
-git clone https://github.com/yourusername/chatbot.git
+git clone https://github.com/adelaidebonfamille/chatbot.git
 cd chatbot
 ```
 
